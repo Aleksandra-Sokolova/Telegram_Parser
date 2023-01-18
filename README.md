@@ -1,9 +1,6 @@
 ## Название проекта: 
 ### Исследование вакансий для специалистов Data Analyst, Data Science, Data Engineer в Telegram (Parsing of telegram vacancies)
 
-## Цель исследования: 
-Поиск подходящего места (района) для открытия кафе в Москве
-
 ### Задачи:
 1. Реализовать парсер вакансий с Telegram-каналов
 2. Выгрузить данные о вакансиях для специалистов Data Analyst, Data Science, Data Engineer 
