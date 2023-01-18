@@ -16,6 +16,8 @@
 ## Итоги исследования: 
 В ходе проекта был реализован парсер, скачены данные с Telegram-каналов о работе для специалистов Data Analyst, Data Science, Data Engineer с 2019 по 2022 год (июнь). Результаты исследования представлены в дашборде Tableau. 
 
-***
+[Дашборд](https://public.tableau.com/app/profile/alexandra6762/viz/Parser_final/Presentation_final)
+
+[Благодарственное письмо от менеджера курса "Аналитик данных"](https://public.tableau.com/app/profile/alexandra6762/viz/Parser_final/Presentation_final)
 
 
